@@ -1,0 +1,8 @@
+@import "base/reset.css";
+@import "base/tipografia.css";
+@import "base/variable.css";
+@import "layout/_nav.css";
+@import "layout/_header.css";
+@import "layout/cards.css";
+@import "modulo/cad.css";
+@import "layout/footer.css";

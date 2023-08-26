@@ -1,0 +1,28 @@
+footer{
+    background-color:rgb(212, 71, 71);
+    margin-top: 20px;
+    width:100%;
+}
+.font-footer{
+    font-size:40px;
+    padding:20px 10px 10px 220px;
+    
+}
+.info{
+    display:block;
+    padding:0px 20px 0px 220px;
+}
+.info2{
+    position:relative;
+    top:-155px;
+    left:500px;
+}
+.info-img{
+    display:block;
+    padding:0px 20px 0px 220px;
+}
+.info3{
+    position:absolute;
+    top:1030px;
+    left:889px;
+}

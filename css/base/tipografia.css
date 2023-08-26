@@ -1,0 +1,12 @@
+.titulo_principal{
+    
+    font-size:var(--txt-small);
+    font-family: var(--font-noto-sans);
+    font-size:30px;
+    
+}
+.txt_small {
+    font-family: var(--font-noto-sans);
+    font-size: var(--txt-small);
+    font-weight: 300;
+}
