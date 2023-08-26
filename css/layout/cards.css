@@ -6,4 +6,11 @@
  .image__card {
     width: 120px;
 }
+@media (max-width:600px) {
+    .cards {
+        display:block;
+        
+        }
+
+}
  
